@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Stylized Rickshaw Yellow Bonnet/Chassis -->
+    <path
+        android:fillColor="#FFC72C"
+        android:pathData="M30,50 L78,50 L78,74 L30,74 Z M30,50 C30,38 40,28 54,28 C68,28 78,38 78,50 Z" />
+
+    <!-- Black Canopy cover -->
+    <path
+        android:fillColor="#1E1E1E"
+        android:pathData="M30,50 L78,50 L74,70 L34,70 Z M33,50 C33,38 42,30 54,30 C66,30 75,38 75,50 Z" />
+
+    <!-- Windshield glass inside canopy -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,48 L71,48 L68,36 C64,34 60,33 54,33 C48,33 44,34 40,36 Z" />
+
+    <!-- Front panel details - Chrome Headlight (White/Yellow glow) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,62 C57,62 59,59.7 59,57 C59,54.3 57,52 54,52 C51,52 49,54.3 49,57 C49,59.7 51,62 54,62 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,59 C55.6,59 57,58.1 57,57 C57,55.9 55.6,55 54,55 C52.4,55 51,55.9 51,57 C51,58.1 52.4,59 54,59 Z" />
+
+    <!-- Steel Mudguard or grill at the bottom -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M35,74 L73,74 L73,77 L35,77 Z" />
+
+    <!-- Wheels (Left and Right black tires with grey hubcaps) -->
+    <!-- Left wheel -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M36,77 C39.3,77 42,79.7 42,83 C42,86.3 39.3,89 36,89 C32.7,89 30,86.3 30,83 C30,79.7 32.7,77 36,77 Z" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M36,80 C37.6,80 39,81.3 39,83 C39,84.7 37.6,86 36,86 C34.4,86 33,84.7 33,83 C33,81.3 34.4,80 36,80 Z" />
+
+    <!-- Right wheel -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M72,77 C75.3,77 78,79.7 78,83 C78,86.3 75.3,89 72,89 C68.7,89 66,86.3 66,83 C66,79.7 68.7,77 72,77 Z" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M72,80 C73.6,80 75,81.3 75,83 C75,84.7 73.6,86 72,86 C70.4,86 69,84.7 69,83 C69,81.3 70.4,80 72,80 Z" />
+</vector>

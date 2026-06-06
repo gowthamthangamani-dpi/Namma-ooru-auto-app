@@ -1,0 +1,6 @@
+{
+  "name": "Namma Ooru Auto",
+  "description": "An Ola-style local auto-rickshaw booking application to streamline daily commutes and Metro feeder connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
